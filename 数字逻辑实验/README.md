@@ -22,6 +22,9 @@ The hardware description language is used to design and implement the multiplexe
 ## 计算器的设计 Calculator
 Master the basic analysis and design method of the sequential logic circuit, understand the working principle of the trigger (触发器), use the hardware description language to realize the gate level design of the trigger, understand the working principle of the register (寄存器), use the hardware description language to realize the design of different word length registers, master the method of using the trigger to constitute various counters, and use the hardware description language to realize the design of designated function counters.
 
-## 串行密码锁 
-Master the basic analysis and design method of sequential logic circuit, understand the working principle of state machine, and use hardware description language to realize state machine to design a practical application example.
+## 串行密码锁 Serial Password
+Master the basic analysis and design method of sequential logic circuit, understand the working principle of state machine, and use hardware description language to realize state machine to design a practical application example. Create a system that can set a password, check if the password is correct, and utilize a master password.
+
+## 开放性数电实验设计 Open Project
+This is was our final project, to create our own design. I chose to design a stop watch with basic functionalities, reset, start/stop, split times (up to 3), and show lap history. The timer can go from 0:00:00 to 9:59:99 (minutes:seconds:centiseconds)
 
