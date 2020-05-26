@@ -1,5 +1,7 @@
 # **开放性数电实验设计报告**
 
+THE THREE FILES ABOVE IS FOR THE CYCLONE IV BOARD, NOT THE ONLINE JIELABS SOFTWARE, CODE FOR JIELABS IS IN THE README
+
 ## **实验目的**
 
 1. Design and construct our own FPGA logic circuit
